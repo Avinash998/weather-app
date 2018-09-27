@@ -1,3 +1,4 @@
+// console.log("Inside app.js");
 const yargs = require('yargs');
 
 const geocode = require('./geocode/geocode.js');
